@@ -15,6 +15,12 @@ import ClientView.ToolView;
 import Controller.ModelController.ModelControllerTool;
 import Controller.ViewController.CustomerViewController.CustomerListener;
 
+/**
+ * ToolViewController controls the Inventory View.
+ * 
+ * @author Sanyam, Neha
+ *
+ */
 public class ToolViewController {
 
 	private ToolView toolView;

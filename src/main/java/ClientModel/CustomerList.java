@@ -3,7 +3,12 @@ package ClientModel;
 import java.io.Serializable;
 import java.util.ArrayList;
 
-
+/**
+ * CustomerList represents the list of Customers
+ * 
+ * @author Sanyam, Neha
+ *
+ */
 public class CustomerList implements Serializable {
 	
 	/**

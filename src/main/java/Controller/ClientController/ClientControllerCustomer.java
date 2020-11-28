@@ -6,6 +6,13 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
 
+/**
+ * ClientControllerCustomer controls operations of the Customer GUI and
+ * interacts with the View controller
+ * 
+ * @author Sanyam, Neha
+ *
+ */
 public class ClientControllerCustomer {
 
 	private Socket customerSocket;

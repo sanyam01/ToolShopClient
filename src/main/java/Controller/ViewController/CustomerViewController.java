@@ -11,6 +11,12 @@ import javax.swing.event.ListSelectionListener;
 import ClientView.CustomerView;
 import Controller.ModelController.ModelControllerCustomer;
 
+/**
+ * CustomerViewController controls the Customer View.
+ * 
+ * @author Sanyam, Neha
+ *
+ */
 public class CustomerViewController {
 
 	private CustomerView customerView;

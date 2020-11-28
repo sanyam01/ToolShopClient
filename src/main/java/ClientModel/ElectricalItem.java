@@ -1,5 +1,11 @@
 package ClientModel;
 
+/**
+ * Electrical Item is a sub type of class item
+ * 
+ * @author Sanyam, Neha
+ *
+ */
 public class ElectricalItem extends Items {
 
 	private String powerType;

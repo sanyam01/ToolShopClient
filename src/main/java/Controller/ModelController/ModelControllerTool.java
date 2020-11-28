@@ -12,6 +12,13 @@ import Controller.ClientController.ClientControllerTool;
 import ClientModel.Order;
 import ClientModel.OrderLines;
 
+/**
+ * 
+ * ModelControllerTool performs operations on the data and interacts with the model.
+ * 
+ * @author Sanyam, Neha
+ *
+ */
 public class ModelControllerTool {
 
 	private ClientControllerTool clientControllerTool;

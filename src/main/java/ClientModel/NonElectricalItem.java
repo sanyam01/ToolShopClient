@@ -1,10 +1,12 @@
 package ClientModel;
 
+/**
+ * Non- eletrical items is a sub-class of class Items
+ * @author Sanyam, Neha
+ *
+ */
 public class NonElectricalItem extends Items{
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 	
 	public NonElectricalItem() {

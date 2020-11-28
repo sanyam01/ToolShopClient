@@ -6,6 +6,13 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
 
+/**
+ * ClientControllerTool controls operations of the inventory GUI and
+ * interacts with the View controller
+ * 
+ * @author Sanyam, Neha
+ *
+ */
 public class ClientControllerTool {
 
 	private Socket toolSocket;

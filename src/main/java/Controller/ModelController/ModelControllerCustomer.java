@@ -11,6 +11,12 @@ import ClientModel.CustomerList;
 import ClientModel.Residential;
 import Controller.ClientController.ClientControllerCustomer;
 
+/**
+ * ModelControllerCustomer performs operations on the data and interacts with the model.
+ * 
+ * @author Sanyam, Neha
+ *
+ */
 public class ModelControllerCustomer {
 
 	private Customer customer, atIndexCustomer;

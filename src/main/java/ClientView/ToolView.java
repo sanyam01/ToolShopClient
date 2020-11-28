@@ -5,6 +5,12 @@ import java.awt.event.*;
 import javax.swing.*;
 import javax.swing.event.ListSelectionListener;
 
+/**
+ * ToolView provides the functionality for the inventory
+ * 
+ * @author Sanyam, Neha
+ *
+ */
 public class ToolView extends JFrame {
 
 	private JButton checkQuantity;

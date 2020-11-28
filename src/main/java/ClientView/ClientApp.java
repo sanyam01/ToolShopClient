@@ -16,6 +16,12 @@ import javax.swing.event.ListSelectionListener;
 
 import ClientModel.LoginCredentials;
 
+/**
+ * ClientApp is the main application which has the main function
+ * 
+ * @author Sanyam, Neha
+ *
+ */
 public class ClientApp extends JFrame implements LoginCredentials {
 
 	private static final long serialVersionUID = 1L;

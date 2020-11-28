@@ -23,7 +23,7 @@ import ClientModel.NonElectricalItem;
  * Class Items represents an item in the inventory. It has an item name, ID,
  * quantity, price, and the supplier info.
  * 
- * @author Sanyam
+ * @author Sanyam, Neha
  *
  */
 

@@ -1,10 +1,14 @@
 package ClientModel;
 
+
+/**
+ * Residential is a sub type of class Customer
+ * @author Sanyam, Neha
+ *
+ */
 public class Residential extends Customer {
 
-	/**
-	 * 
-	 */
+	
 	private static final long serialVersionUID = 1L;
 	
 	public Residential() {

@@ -1,5 +1,11 @@
 package ClientModel;
 
+/**
+ * Commercial is a sub type of customer
+ * 
+ * @author Sanyam, Neha
+ *
+ */
 public class Commercial extends Customer {
 
 	/**

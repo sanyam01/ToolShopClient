@@ -12,6 +12,12 @@ import java.net.SocketException;
 
 import ClientModel.Customer;
 
+/**
+ * ClientController interacts with the Server
+ * 
+ * @author Sanyam, Neha
+ *
+ */
 public class ClientController {
 	
 	private Socket aSocket;

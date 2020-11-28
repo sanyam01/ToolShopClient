@@ -15,6 +15,14 @@ import com.fasterxml.jackson.annotation.JsonTypeInfo;
 		  @Type(value = Commercial.class, name = "commercial") 
 		})
 
+/**
+ * Customer is abstract class representing the customer.
+ * 
+ * It has two sub classes residential and commercial
+ * 
+ * @author Sanyam, Neha
+ *
+ */
 public abstract class Customer implements Serializable {
 	
 	/**

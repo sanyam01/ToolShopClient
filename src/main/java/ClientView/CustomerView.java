@@ -10,6 +10,12 @@ import javax.swing.event.ListSelectionListener;
 
 //import Client.Controller.ViewController.CustomerViewController.CustomerListener;
 
+/**
+ * CustomerView provides the GUI functionality for the customers
+ * 
+ * @author Sanyam, Neha
+ *
+ */
 public class CustomerView extends JFrame {
 
 	private JButton save;

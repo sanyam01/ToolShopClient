@@ -6,6 +6,12 @@ import javax.swing.*;
 
 import Controller.ViewController.MainViewController;
 
+/**
+ * Main view allows the client to select either the inventory GUI or the customer GUI
+ * 
+ * @author Sanyam, Neha
+ *
+ */
 public class MainView extends JFrame {
 
 	private JLabel prompt;

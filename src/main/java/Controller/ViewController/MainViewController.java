@@ -8,6 +8,12 @@ import Controller.ModelController.ModelControllerTool;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+/**
+ * MainViewController controls the operations of the Main View.
+ * 
+ * @author Sanyam, Neha
+ *
+ */
 public class MainViewController implements ActionListener {
 
 	MainView view;

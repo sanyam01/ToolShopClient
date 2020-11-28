@@ -3,6 +3,12 @@ package ClientModel;
 import java.io.Serializable;
 import java.util.ArrayList;
 
+/**
+ * ItemList represents the list of item
+ * 
+ * @author Sanyam, Neha
+ *
+ */
 
 public class ItemsList implements Serializable{
 
